@@ -12,7 +12,5 @@ Case Study :
 The dataset contains the details of all the credits and debits made to accounts daily. 
 The objective is to read the given dataset and perform transformation using PySpark code to fulfill this requirement.
 
-Sample Dataset : 
-
 
 
